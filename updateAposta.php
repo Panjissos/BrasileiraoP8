@@ -15,8 +15,4 @@
 	}
 
 	header("location: CalcAcerto.php");
-
-		
-
- ?>
-
+?>

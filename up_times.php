@@ -14,6 +14,4 @@
 	}
 
 	header("location: admin.php");
-
- ?>
-
+?>

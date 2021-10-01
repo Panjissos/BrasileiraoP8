@@ -7,6 +7,4 @@
 	mysqli_query($conn,$query);
 	//echo "Funfando";
 	header("location: user_list.php?update=ok");
-
-
 ?>
